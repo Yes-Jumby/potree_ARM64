@@ -1,2 +1,2 @@
 # potree_ARM64
-Potree Test
+download link: git clone https://github.com/Yes-Jumby/potree_ARM64
